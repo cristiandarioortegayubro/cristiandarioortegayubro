@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cristiandarioortegayubro
-- 👀 I’m interested in Google Colab and Python and R
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning ML
 
 <!---
